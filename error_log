@@ -1,0 +1,44 @@
+[05-Apr-2020 18:17:09 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:17:12 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:17:13 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:17:15 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:17:46 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:17:47 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:17:59 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:18:00 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:18:10 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:18:14 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:18:15 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/newsitea/clean.a-deco.net/wp-content/plugins/classic-editor-addon/vendor/afragen/wp-dependency-installer/wp-dependency-installer.php on line 838
+[05-Apr-2020 18:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/newsitea/clean.a-deco.net/wp-includes/wp-db.php:1645
+Stack trace:
+#0 /home2/newsitea/clean.a-deco.net/wp-includes/wp-db.php(639): wpdb->db_connect()
+#1 /home2/newsitea/clean.a-deco.net/wp-includes/load.php(435): wpdb->__construct('newsitea_clean', 'Yh!{L$nkoyoz', 'newsitea_clean', 'localhost')
+#2 /home2/newsitea/clean.a-deco.net/wp-settings.php(109): require_wp_db()
+#3 /home2/newsitea/clean.a-deco.net/wp-config.php(81): require_once('/home2/newsitea...')
+#4 /home2/newsitea/clean.a-deco.net/wp-load.php(37): require_once('/home2/newsitea...')
+#5 /home2/newsitea/clean.a-deco.net/wp-blog-header.php(13): require_once('/home2/newsitea...')
+#6 /home2/newsitea/clean.a-deco.net/index.php(17): require('/home2/newsitea...')
+#7 {main}
+  thrown in /home2/newsitea/clean.a-deco.net/wp-includes/wp-db.php on line 1645
+[05-Apr-2020 18:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/newsitea/clean.a-deco.net/wp-includes/wp-db.php:1645
+Stack trace:
+#0 /home2/newsitea/clean.a-deco.net/wp-includes/wp-db.php(639): wpdb->db_connect()
+#1 /home2/newsitea/clean.a-deco.net/wp-includes/load.php(435): wpdb->__construct('newsitea_clean', 'Yh!{L$nkoyoz', 'newsitea_clean', 'localhost')
+#2 /home2/newsitea/clean.a-deco.net/wp-settings.php(109): require_wp_db()
+#3 /home2/newsitea/clean.a-deco.net/wp-config.php(81): require_once('/home2/newsitea...')
+#4 /home2/newsitea/clean.a-deco.net/wp-load.php(37): require_once('/home2/newsitea...')
+#5 /home2/newsitea/clean.a-deco.net/wp-blog-header.php(13): require_once('/home2/newsitea...')
+#6 /home2/newsitea/clean.a-deco.net/index.php(17): require('/home2/newsitea...')
+#7 {main}
+  thrown in /home2/newsitea/clean.a-deco.net/wp-includes/wp-db.php on line 1645
+[05-Apr-2020 18:22:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/newsitea/clean.a-deco.net/wp-includes/wp-db.php:1645
+Stack trace:
+#0 /home2/newsitea/clean.a-deco.net/wp-includes/wp-db.php(639): wpdb->db_connect()
+#1 /home2/newsitea/clean.a-deco.net/wp-includes/load.php(435): wpdb->__construct('newsitea_clean', 'Yh!{L$nkoyoz', 'newsitea_clean', 'localhost')
+#2 /home2/newsitea/clean.a-deco.net/wp-settings.php(109): require_wp_db()
+#3 /home2/newsitea/clean.a-deco.net/wp-config.php(81): require_once('/home2/newsitea...')
+#4 /home2/newsitea/clean.a-deco.net/wp-load.php(37): require_once('/home2/newsitea...')
+#5 /home2/newsitea/clean.a-deco.net/wp-blog-header.php(13): require_once('/home2/newsitea...')
+#6 /home2/newsitea/clean.a-deco.net/index.php(17): require('/home2/newsitea...')
+#7 {main}
+  thrown in /home2/newsitea/clean.a-deco.net/wp-includes/wp-db.php on line 1645

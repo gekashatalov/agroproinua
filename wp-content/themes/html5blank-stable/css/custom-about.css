@@ -1,0 +1,36 @@
+@import 'custom.css';
+
+/* about */
+
+.about-page{
+    margin-top: 50px;
+}
+
+
+
+/* responsive */
+
+@media only screen and (max-width: 1600px){
+    .about-page{
+        margin-top: 30px;
+    }
+    
+}
+@media only screen and (max-width: 1400px){
+    
+}
+@media only screen and (max-width: 1300px){
+    
+}
+@media only screen and (max-width: 1000px){
+    
+}
+@media only screen and (max-width: 730px){
+    .about-page{
+        margin-top: 15px;
+    }
+    
+}
+@media only screen and (max-width: 440px){
+    
+}
